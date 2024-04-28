@@ -1,0 +1,13 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "homepage": "https://github.com/moonwalker935/hexlet-js/blob/main/README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eldar Kusainov <Kusainov935@gmail.com>",
+  "license": "ISC"
+}
