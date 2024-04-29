@@ -1,1 +1,3 @@
-import _ from "src/index.js"
+import hello from "./src/index.js"
+
+hello();
